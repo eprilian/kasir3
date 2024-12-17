@@ -1,8 +1,15 @@
 <p align="center">
-    <h1 align="center">POS System Using Laravel</h1>
+    <h1 align="center">FUFUFUFAFAFA</h1>
 </p>
 
-The project was created while recording video "[Create POS System Using Laravel](https://www.youtube.com/watch?v=Y_NRk0lOOJc&list=PL2hV0q47BY-G9f5xG9Vq-wGjSyy1BekOv)"
+## Final Project Cloud Computing
+
+### Anggota Kelompok
+1. Fajar Khakim                    - 22.83.0773
+1. Eprilian Firmansyah             - 22.83.0779
+1. Muhammad Priandika Bayu Firdaus - 22.83.0798
+1. Yusuf Nur Hanafi                - 22.83.0810
+<!-- The project was created while recording video "[Create POS System Using Laravel](https://www.youtube.com/watch?v=Y_NRk0lOOJc&list=PL2hV0q47BY-G9f5xG9Vq-wGjSyy1BekOv)" -->
 
 ## Installation
 
@@ -12,7 +19,7 @@ For system requirements you [Check Laravel Requirement](https://laravel.com/docs
 
 ### Clone the repository from github.
 
-    git clone https://github.com/angkosal/laravel-pos.git [YourDirectoryName]
+    git clone https://github.com/eprilian/awan-melayang-oye.git [YourDirectoryName]
 
 The command installs the project in a directory named `YourDirectoryName`. You can choose a different
 directory name if you want.
@@ -51,7 +58,7 @@ Rename or copy `.env.example` file to `.env` 1.`php artisan key:generate` to gen
 1. Visit `localhost:8000` in your browser. Email: `admin@gmail.com`, Password: `admin123`.
  <!-- 1. Online demo: [pos.khmernokor.com](https://pos.khmernokor.com/) -->
 
-### Screenshots
+<!-- ### Screenshots
 
 #### Product list
 
@@ -67,6 +74,4 @@ Rename or copy `.env.example` file to `.env` 1.`php artisan key:generate` to gen
 
 #### Customer list
 
-![Customer list](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/customer_list.png)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/angkosal)
+![Customer list](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/customer_list.png) -->
