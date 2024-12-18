@@ -19,7 +19,7 @@ For system requirements you [Check Laravel Requirement](https://laravel.com/docs
 
 ### Clone the repository from github.
 
-    git clone https://github.com/eprilian/awan-melayang-oye.git [YourDirectoryName]
+    git clone https://github.com/eprilian/kasir3 [YourDirectoryName]
 
 The command installs the project in a directory named `YourDirectoryName`. You can choose a different
 directory name if you want.
